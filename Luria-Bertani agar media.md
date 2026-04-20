@@ -1,5 +1,6 @@
 # Luria-Bertani agar media protocol
 ***Per 500mL***
+
 ***Do not add agar if making broth***
 
 | Ingredient | Amount |

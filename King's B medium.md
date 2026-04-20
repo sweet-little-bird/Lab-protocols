@@ -1,4 +1,4 @@
-# King's B medium (SPA) protocol
+# King's B medium (KB) protocol
 ***Per 500mL***
 
 ***Do not add agar if making broth***

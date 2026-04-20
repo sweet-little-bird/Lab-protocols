@@ -7,4 +7,4 @@
 | KCl | 1 g |
 | Na2HPO4 | 7.2 g |
 | KH2PO4 | 1.2 g |
-| Distilled water | 500 mL |
+| Distilled water | add to make final volume 500 mL |

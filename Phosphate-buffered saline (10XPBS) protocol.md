@@ -1,7 +1,7 @@
 # Phosphate-buffered saline (10XPBS) protocol
 ***Per 500mL***
 
-Ingredient          Amount
+|Ingredient|          |Amount|
 
 NaCl                  40g
 

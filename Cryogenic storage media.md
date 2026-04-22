@@ -7,7 +7,7 @@ This media is used to store bacterial culture at -80C
 | Nutrient broth | 2 g |
 | Yeast Extract | 0.5 g |
 | Glucose | 1.25 g |
-| Glycerol | 37.5 g |
+| Glycerol | 37.5 ml |
 | Distilled water | add to make final volume 250 mL |
 
 # Reference

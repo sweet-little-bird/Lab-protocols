@@ -1,4 +1,4 @@
-# Ampicillin stock solution (50, 000 ppm) or 1000X
+# Ampicillin stock solution (50,000 ppm) or 1000X
 
 1. Weigh 0.5g of ampicillin
 

@@ -2,7 +2,7 @@
 ***Per 1L***
 
 
-| Ingredient | Amount | Concentration |
+| Ingredient | Amount | Final concentration |
 |------------|--------|---------------|
 | Casein peptone (Tryptone) | 20 g | 2 % |
 | Yeast extract | 5 g | 0.5 % |
@@ -11,7 +11,8 @@
 | MgCl2 | 0.9521 g | 10mM |
 | anhy. MgSO4 | 1.2036 g | 10mM |  
 | Glucose | 3.6032 g | 20mM |
-| Distilled water | add to make final volume 500 mL |
+
+Distilled water: add to make final volume 500 mL
 
 ***Use 2.465g if using MgSO4.7H2O***
 

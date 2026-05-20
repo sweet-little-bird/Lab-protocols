@@ -2,8 +2,8 @@
 ***Per 1L***
 
 
-| Ingredient | Amount |
-|------------|--------|
+| Ingredient | Amount | Concentration |
+|------------|--------|---------------|
 | Casein peptone (Tryptone) | 20 g | 2 % |
 | Yeast extract | 5 g | 0.5 % |
 | NaCl | 0.5845 g | 10 mM |

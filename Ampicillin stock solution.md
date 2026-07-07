@@ -8,6 +8,6 @@
 
 3. If using DMSO, so not filter (it will dissolve the filter itself). If dissolved in water, you can filter sterilize it (0.2uM syringe filter)
    
-4. For 50ppm of media, use 500ul of the stock (adjust accordingly)
+4. For 50ppm of media, use 500ul of the stock (adjust accordingly) on 500ml of LB agar or respective media.
 
 5. Store at -20C for future use (upto 1 year)

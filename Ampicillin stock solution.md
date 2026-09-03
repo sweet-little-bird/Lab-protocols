@@ -2,7 +2,7 @@
 
 1. Weigh 0.5g of Ampicillin
 
-2. Dissolve in sterile distilled water (Na salt of ampicillin), use DMSO for anhydrous Ampicillin
+2. Dissolve in sterile distilled water (Na salt of ampicillin), use DMSO for anhydrous Ampicillin [final volume = 10 mL]
 
    ***Anhydrous Ampicillin suspends in water, doesn't dissolve***
 

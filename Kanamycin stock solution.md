@@ -2,7 +2,7 @@
 
 1. Weigh 0.5g of Kanamycin Sulfate
 
-2. Dissolve in sterile distilled water
+2. Dissolve in sterile distilled water [final volume = 10 mL]
 
 3. Filter sterilize it using 0.2uM syringe filter
    

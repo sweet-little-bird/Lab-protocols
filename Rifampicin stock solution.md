@@ -2,7 +2,7 @@
 
 1. Weigh 0.5g of Ampicillin
 
-2. Dissolve in 10ml DMSO
+2. Dissolve in 10ml DMSO [final volume]
 
 ***If using DMSO, do not filter (it will dissolve the filter itself)***
    
